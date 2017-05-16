@@ -1,0 +1,108 @@
+body {
+    background-image: url("background.png");
+}
+
+#box1 {
+	margin-left:15px;
+	margin-top:15px;
+
+}
+
+h1 {
+	color:white;
+	width: 320px;
+	height: 80px;
+	background-color: orange;
+	font-size:40px;
+	text-align: center;
+	line-height: 75px
+
+}
+
+#box2  {
+	background-color:#FFE4B5;
+	color:green;
+	font-size:25px;
+	width:500px;
+	margin-top:60px;
+	margin-left:15px;
+}
+
+
+#jem1  {
+	width:200px;
+	height:200px;
+	position: relative; top: -200px;
+	margin-left:15px;
+}
+
+#jem2  {
+	width:200px;
+	height:200px;
+	position: relative; top: -177px;
+	margin-left:15px;
+}
+
+
+#jem3  {
+	width:200px;
+	height:200px;
+	position: relative; top: -177px;
+	margin-left:15px;
+
+}
+
+#jem4  {
+	width:200px;
+	height:200px;
+	position: relative; top: -177px;
+	margin-left:15px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+#randomnumber  {
+	width:400px;
+	height:200px;
+	background-color:#71EEB8;
+	margin-bottom: 25px;
+	margin-top:75px;
+	margin-left:15px;
+}
+
+#score  {
+	width:100px;
+	height:200px;
+	background-color: #50D0D0;
+	margin-bottom:25px;
+	position: relative; right: -500px;
+	position: relative; bottom:225px;
+}
+
+#totalScoredisplay  {
+	width:500px;
+	height:25px;
+	background-color:#008080;
+	position: relative; bottom:100px;
+	margin-left:15px;
+}
+
+#totalscore  {
+	width:400px;
+	height:200px;
+	background-color:#008080;
+	position: relative; bottom:30px;
+	margin-left:15px;
+}
+
+#losses   {
+	position: relative; bottom:-75px;
+}
+
+p  {
+	margin:40px;
+}
